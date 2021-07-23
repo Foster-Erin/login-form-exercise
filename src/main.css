@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Otomanopee One", sans-serif;
+}
+
+.login {
+  background-color: white;
+  border: solid 3px black;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
